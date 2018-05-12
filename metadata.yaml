@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5443'
     url: http://www.gutenberg.org/2009/agents/5443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39574#The-Radio-Boys-on-Secret-Service-Duty
 gutenberg_issued: '2012-05-01'
 gutenberg_type: Text
 identifiers:
