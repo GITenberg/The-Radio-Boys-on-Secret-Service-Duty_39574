@@ -1,0 +1,27 @@
+_repo: The-Radio-Boys-on-Secret-Service-Duty_39574
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Breckenridge, Gerald
+    alias: Breitgam, Gerald H.
+    deathdate: 1964
+    gutenberg_agent_id: '5443'
+    url: http://www.gutenberg.org/2009/agents/5443
+description: ''
+gutenberg_issued: '2012-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Secret service -- Juvenile fiction'
+title: The Radio Boys on Secret Service Duty
+url: http://www.gutenberg.org/ebooks/39574
